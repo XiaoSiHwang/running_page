@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'XiaoSi Hwang Running',
     siteUrl: 'https://yihong.run',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    logo: 'https://www.nasyun.xyz:8007/markdown/2022/08/25/630773d7d5eb0.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
